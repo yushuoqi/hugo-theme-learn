@@ -2,3 +2,5 @@
 label: testBasicTemplate
 hide_body: false
 fields: []
+pages:
+- exampleSite/content/basics/testBasic/testBasicContend.md
