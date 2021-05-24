@@ -1,6 +1,20 @@
 ---
 label: testBasicTemplate
 hide_body: false
-fields: []
+fields:
+- name: data
+  type: datetime
+  label: Data
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  hidden: false
+- name: tag
+  type: tag_list
+  default: []
+  label: tag
 pages:
 - exampleSite/content/basics/testBasic/testBasicContend.md
