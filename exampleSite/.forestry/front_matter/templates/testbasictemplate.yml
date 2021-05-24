@@ -16,3 +16,5 @@ fields:
   type: tag_list
   default: []
   label: tag
+pages:
+- exampleSite/content/basics/testBasic/testBasicContend.en.md
